@@ -68,6 +68,7 @@ Add a home listing
 body: {newHome}
 > Response:
 201 CREATED
+
 ### PATCH
 ```javascript
 /api/similar/:id
@@ -81,6 +82,7 @@ Body: { listing updates }
 <br>
 > Response:
 200 OK
+
 ### DELETE
 ```javascript
 /api/similar/:id
