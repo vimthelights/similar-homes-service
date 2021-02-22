@@ -30,5 +30,5 @@ build/
 #Tests
 test/
 
-#New Relic
-newrelic.js
+#New Relic License Key
+licenseKey.js
